@@ -33,16 +33,13 @@ cd My-Portfolio
 - Project showcase
 - Skills section
 - Contact information
-- [Add any other notable features]
 
 ## 🤝 Contributing
 
 While this is my personal portfolio, I'm open to suggestions and improvements. Feel free to open an issue or submit a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-[Your contact information]
+[sha.musembi06@gmail.com]
