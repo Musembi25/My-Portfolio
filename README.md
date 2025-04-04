@@ -11,7 +11,6 @@ You can view my portfolio website live at: [https://musembi25.github.io/My-Portf
 - HTML5
 - CSS3
 - JavaScript
-- [Any other technologies/frameworks you're using]
 
 ## 📦 Setup Instructions
 
